@@ -1,0 +1,21 @@
+@page {
+    size: auto;
+    margin: 20mm;
+  }
+  
+@media print {
+    header {
+        display: none !important;
+    }
+    body {
+        margin: 0px;
+    }
+    #maincontent {
+        width: 100% !important;
+    }
+  }
+
+.glossary-item {
+    border-bottom-style: dotted;
+    border-width: 1px;
+}

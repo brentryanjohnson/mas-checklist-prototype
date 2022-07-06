@@ -41,11 +41,11 @@ secondary:
     href: /theme/
 
 docs:
-  - text: Sidenav Documentation
+  - text: Multiple Award Schedule contractor checklist
     href: /docs/
-  - text: Sidenav External link
-    href: https://18f.gsa.gov
-    external: true
+#  - text: Sidenav External link
+#    href: https://18f.gsa.gov
+#    external: true
 
 # Uncomment the 'links' sections below to use footer link columns
 # with the 'big' footer style.
