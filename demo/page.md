@@ -26,45 +26,52 @@ subnav:
     <tr>
       <th scope="col">Action</th>
       <th scope="col">Complete by</th>
-      <th scope="col">Clause</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td scope="row">
-      <p>Go to <a href="https://vsc.gsa.gov/vsc/">Vendor Support Center (VSC)</a> and <a href="https://vsc.gsa.gov/vsc/app-registration">Register your Schedule contract</a>.</p>
-      <p>If you already hold a Schedule contract, update your <a href="https://vsc.gsa.gov/vsc/app-profile">VSC user profile</a>.</p>
+      <p>Go to <a href="https://vsc.gsa.gov/vsc/">Vendor Support Center (VSC)</a> and <a href="https://vsc.gsa.gov/vsc/app-registration"><strong>Register your schedule contract</strong></a>.</p>
+      <p>If you already hold a schedule contract, update your <a href="https://vsc.gsa.gov/vsc/app-profile">VSC user profile</a>.</p>
       </td>
       <td>
         Immediately
       </td>
-      <td></td>
     </tr>
     <tr>
-      <td scope="row">Review the “<a href="https://vsc.gsa.gov/vsc/app-content-viewer/section/95">Contractor Start-up Kit</a>” on the VSC site to learn how to upload your awarded price list to GSAAdvantage!®</td>
+      <td scope="row"><strong>Review the <a href="https://vsc.gsa.gov/vsc/app-content-viewer/section/95">Contractor Start-up Kit</a></strong> to learn how to upload your awarded price list to GSAAdvantage!®
+        <details>
+          <summary>Clause</summary>
+          <a href="https://www.acquisition.gov/content/552.238-88-gsa-advantage%C2%AE.">552.238-88</a><br>
+          GSA Advantage!®
+        </details>
+      </td>
       <td>Immediately</td>
-      <td><a href="https://www.acquisition.gov/content/552.238-88-gsa-advantage%C2%AE.">552.238-88</a><br>
-        GSA Advantage!®</td>
     </tr>
     <tr>
-      <td scope="row">Submit your electronic contract data for publication on GSA Advantage!®</td>
+      <td scope="row"><strong>Submit your electronic contract data</strong> for publication on GSA Advantage!®<br>
+            <details>
+              <summary>Clause</summary>
+              <a href="https://vsc.gsa.gov/vsc/app-content-viewer/section/84%23What%20do%20I%20need%20to%20include%20in%20my%20electronic%20catalog%20for%20GSA%20Advantage%3F">I-FSS-600</a><br>
+              Contract Price List
+          </details>
+      </td>
       <td>
         30 calendar days after contract award
-      </td>
-      <td><a href="https://vsc.gsa.gov/vsc/app-content-viewer/section/84%23What%20do%20I%20need%20to%20include%20in%20my%20electronic%20catalog%20for%20GSA%20Advantage%3F">I-FSS-600</a><br>
-          Contract Price List
       </td>
     </tr>
     <tr>
       <td scope="row">
-      <p>Make sure you are registered for FAS ID to access the <a href="https://srp.fas.gsa.gov/">FAS Sales Reporting Portal (SRP)</a>.</p>
+      <p><strong>Make sure you are registered for FAS ID</strong> to access the <a href="https://srp.fas.gsa.gov/">FAS Sales Reporting Portal (SRP)</a>.</p>
       Determine whether your contract was awarded with <span class="usa-tooltip glossary-item" title="This is a test.">Transactional Data Reporting (TDR)</span> (552.238-80 Alternate I - applies to TDR contracts) or without TDR requirements (552.238-80 - applies to non-TDR contracts).
+      <details>
+          <summary>Clause</summary>
+          <a href="https://www.acquisition.gov/gsam/552.238-80">552.238-80</a><br>
+        Industrial Funding Fee and Sales Reporting
+      </details>
       </td>
       <td>
         15 days before the end of the first reporting period
-      </td>
-      <td><a href="https://www.acquisition.gov/gsam/552.238-80">552.238-80</a><br>
-        Industrial Funding Fee and Sales Reporting
       </td>
     </tr>
   </tbody>
