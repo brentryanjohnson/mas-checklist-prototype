@@ -238,7 +238,7 @@ subnav:
         <strong>Update information in the Federal Awardee Performance and Integrity Information System (FAPIIS)</strong> by posting the required information in the SAM database.
       <details>
         <summary>Clause</summary>
-          <<a href="https://www.acquisition.gov/far/52.209-9">52.209-9</a><br> 
+          <a href="https://www.acquisition.gov/far/52.209-9">52.209-9</a><br> 
         Updates of Publicly Available Information Regarding Responsibility Matters
       </details>  
       </td>
